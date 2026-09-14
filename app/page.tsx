@@ -42,7 +42,7 @@ export default function Home() {
       <section className="hero" id="top">
         <img
           className="hero-image"
-          src="/hero-dancer.png"
+          src="/hero-dancer.webp"
           alt="Dancer performing a powerful leap in a dramatic studio"
         />
         <div className="hero-shade" />
@@ -95,7 +95,7 @@ export default function Home() {
 
       <section className="studio" id="studio">
         <div className="studio-image-wrap">
-          <img src="/class-rehearsal.png" alt="A group rehearsing contemporary dance in the Kinetic studio" />
+          <img src="/class-rehearsal.webp" alt="A group rehearsing contemporary dance in the Kinetic studio" />
           <a className="play-button" href="#schedule" aria-label="See this week's classes">
             <Play fill="currentColor" size={21} />
           </a>
